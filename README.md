@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 BlogMaster AI Assistant
 
 A modern Streamlit web app that combines a **Blog Generator** and a **Personalised Fitness Planner**, powered by Google Gemini LLM.
@@ -23,3 +24,6 @@ A modern Streamlit web app that combines a **Blog Generator** and a **Personalis
 ```bash
 git clone https://github.com/<your-username>/blogmaster-streamlit.git
 cd blogmaster-streamlit
+=======
+# blogmaster-streamlit
+>>>>>>> ed16f060e1151d4e2229323929bf2f2f301e2360
